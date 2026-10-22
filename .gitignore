@@ -1,0 +1,14 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+work/
+.superpowers/
+.DS_Store
+
+# Local authoring notes and editor settings
+docs/
+.vscode/

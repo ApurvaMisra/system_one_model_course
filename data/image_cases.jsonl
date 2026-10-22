@@ -1,0 +1,6 @@
+{"id": "image-payment", "image_path": "screenshots/payment.png", "error_present": true, "category": "payment", "severity": 2, "box": {"left": 0.045, "top": 0.34375, "right": 0.955, "bottom": 0.546875}}
+{"id": "image-login", "image_path": "screenshots/login.png", "error_present": true, "category": "login", "severity": 2, "box": {"left": 0.045, "top": 0.34375, "right": 0.955, "bottom": 0.546875}}
+{"id": "image-service", "image_path": "screenshots/service.png", "error_present": true, "category": "service", "severity": 3, "box": {"left": 0.045, "top": 0.34375, "right": 0.955, "bottom": 0.546875}}
+{"id": "image-success", "image_path": "screenshots/success.png", "error_present": false, "category": "none", "severity": 0, "box": null}
+{"id": "image-empty", "image_path": "screenshots/empty.png", "error_present": false, "category": "none", "severity": 0, "box": null}
+{"id": "image-low-contrast", "image_path": "screenshots/low-contrast.png", "error_present": true, "category": "service", "severity": 1, "box": {"left": 0.045, "top": 0.34375, "right": 0.955, "bottom": 0.546875}}

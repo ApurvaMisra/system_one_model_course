@@ -1,0 +1,6 @@
+[
+  {"id":"profile","title":"Update your profile","text":"Open Account Settings to change your display name and contact email."},
+  {"id":"password","title":"Reset a forgotten password","text":"On the sign-in page, select Forgot password. Enter your account email and follow the reset link sent to your inbox."},
+  {"id":"invoice","title":"Find an invoice","text":"Open Billing, select Invoices, and download the invoice for the month you need."},
+  {"id":"locked","title":"Account locked after failed sign-ins","text":"After several incorrect password attempts, wait fifteen minutes before trying again. Contact support if your account remains locked."}
+]

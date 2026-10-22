@@ -1,0 +1,9 @@
+Hello Billing,
+
+Northwind Studio sent invoice INV-2026-014 for our October design work.
+The design work was USD 240.00 before tax. Tax is USD 24.00, bringing
+the total amount due to USD 264.00. Please pay by 2026-11-15.
+This invoice has not yet been paid. Our contact is Maya Chen.
+
+Thanks,
+Operations

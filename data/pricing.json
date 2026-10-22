@@ -1,0 +1,10 @@
+{
+  "checked": "2026-10-18",
+  "assumptions": "USD standard processing, short context, no regional premium. Verify current rates before budgeting. Estimates cover reported usage only; failed/retried attempts may add unreported charges.",
+  "rates": {
+    "typesafe/systemone/jev-1.13.0": {"input": 0.042, "output": 0, "flat_input": true, "source": "https://docs.typesafe.ai/models"},
+    "typesafe/systemone/jev-1.14.0": {"input": 0.042, "output": 0, "flat_input": true, "source": "https://docs.typesafe.ai/models"},
+    "openai/decisions/gpt-6-luna": {"input": 0.1, "output": 0, "flat_input": true, "source": "https://developers.openai.com/api/docs/guides/decisions"},
+    "openai/responses/gpt-6-luna": {"input": 0.1, "output": 0.5, "cached_input": 0.01, "cache_write": 0.125, "source": "https://developers.openai.com/api/docs/models/gpt-6-luna"}
+  }
+}
